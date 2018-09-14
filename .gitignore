@@ -1,5 +1,10 @@
 # Logs
 logs
+logLogs
+opsLogs
+errorLogs
+requestLogs
+responseLogs
 *.log
 npm-debug.log*
 yarn-debug.log*
